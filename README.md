@@ -69,13 +69,12 @@
 #### 🍔 [Vingo Food Delivery Platform](#)
 *A multi-tenant e-commerce ecosystem supporting Customers, Shop Owners, and Delivery Personnel.*
 - **Architecture:** React.js, Node.js, MongoDB, Redux Toolkit, Firebase
-- **Key Features:** Location-aware spatial querying for store filtering, Firebase OAuth authentication for multi-role workflows, and an end-to-end media pipeline utilizing Multer and Cloudinary for asset storage and rendering.
+- **Key Features:** Firebase OAuth authentication for multi-role workflows, and an end-to-end media pipeline utilizing Multer and Cloudinary for asset storage and rendering.
 
 #### 📚 [Course-Selling Platform](#)
 *A scalable full-stack application for online course creation and video-content delivery.*
 - **Architecture:** MERN Stack, JWT
-- **Key Features:** Role-Based Access Control (RBAC) middleware for granular API protection, context API for global auth state, and automated token refreshes using Axios interceptors.
-
+- **Key Features:** Role-Based Access Control (RBAC) middleware for granular API protection, context API for global auth state.
 ---
 
 ### 🏆 Academic Achievements
