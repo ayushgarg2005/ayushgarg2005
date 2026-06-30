@@ -1,9 +1,22 @@
-<h1 align="center">Hi there, I'm Ayush Garg 👋</h1>
+<h1 align="center">Hi there 👋, I'm Ayush Garg</h1>
 
 <h3 align="center">Full-Stack Developer | Competitive Programmer | B.Tech CSE @ NSUT</h3>
 
+<!-- Dynamic Typing Effect -->
 <p align="center">
-  I am a 6th-semester Computer Science Engineering student passionate about building scalable, distributed systems, creating multi-tenant architectures, and developing autonomous AI agents using tools like LangChain. I enjoy tackling complex architectural challenges and continuously honing my problem-solving skills through competitive programming.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Crafting+Autonomous+AI+Agents;Competitive+Programmer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushgarg2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/ayushgarg2005" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/ayushgarg0729" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:asdgarg0729@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -12,7 +25,6 @@
 - 🎓 B.Tech in **Computer Science & Engineering** at Netaji Subhas University of Technology, Delhi (Class of 2027).
 - 💻 Proficient in the **MERN stack**, **C++**, and **Python**.
 - 🤖 Deeply interested in building **AI agents** and integrating LLMs into robust backend systems.
-- 🏆 Competitive Programmer: Solved **1000+ problems** on LeetCode with a Max Rating of **1825** (Global Rank 1,385), specializing in DP and Graphs.
 - 🚀 Currently exploring big data architectures, system design, and advanced LangGraph chatbots.
 
 ---
@@ -66,9 +78,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Academic Achievements
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushgarg2005&show_icons=true&theme=radical)
+- **JEE Mains 2023:** Scored 98.93 Percentile (Top 1.1%).
+- **Competitive Programming:** LeetCode Max Contest Rating 1825 (top competitive programming percentile) Global Rank 1,385.
+- **Problem Solving:** Solved 1000+ problems including Dynamic Programming, Graphs.
 
 ---
 
