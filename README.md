@@ -68,9 +68,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushgarg2005&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
-</p>
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushgarg2005&show_icons=true&theme=radical)
 
 ---
 
