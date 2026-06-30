@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushgarg2005&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 📫 Let's Connect!
 
 - **Email:** [asdgarg0729@gmail.com](mailto:asdgarg0729@gmail.com)
-- **LinkedIn:** [Ayush Garg](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- **LeetCode:** [Ayush's Profile](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+- **LinkedIn:** [Ayush Garg](https://www.linkedin.com/in/ayushgarg2005)
+- **LeetCode:** [Ayush's Profile](https://leetcode.com/ayushgarg0729)
 
 <p align="center"><i>Constantly learning, building, and optimizing!</i></p>
